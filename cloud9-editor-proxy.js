@@ -37,7 +37,8 @@ define(function(require, exports, module) {
             'css': 'css',
             'html': 'html',
             'xml': 'xml',
-            'less': 'css'
+            'less': 'css',
+            'scss': 'css'
         },
 
         // The current editor.
